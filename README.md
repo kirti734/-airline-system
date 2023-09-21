@@ -1,2 +1,2 @@
-# -airline-system
-this is my first Git respository
+# -Airline-Reservation-Management-C-Project
+This basic Airline Syatem project was created for the Summer Internship Training program (16 july 2023 to 1 august 2023) for Object-oriented Programming in C++, under the guidance Of Mr. SOHAN LAL GUPTA sir. This Console Application Was built on Visual Studio In C++. This project was made by Kirti Agarwal,Mahi Shrivastava,Khushang Ameta,Hitesh Tank from CSE branch.This C++ code is an airline reservation and management system. It supports two user roles: customers and staff members. Customers can search for available flights and make reservations, while staff members can add new flights, display flight information, search for flights, and view passenger reservations.PASSWORD For staff member is=>'****' 
